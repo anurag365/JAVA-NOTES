@@ -1,0 +1,1 @@
+Curly braces are optional and without curly braces we can take only one statement under for loop which should not be declarative statement.

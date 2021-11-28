@@ -1,0 +1,14 @@
+There are two types of variables
+1-Instance varibale
+2-Static varibales
+
+static variable are those variable in which there is a Static method at beginning called static variables 
+
+Note 1.- Static variable cannot be worked with the local varibales,it will show the compile time error 
+
+2.- Static variable can be creathed only on class level variable
+
+3.Static varible can be accessed by class only it cannot be accessed without writing class name and making object
+
+4. If there is non static varibale then it can be accessed by only makin object
+  

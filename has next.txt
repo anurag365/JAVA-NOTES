@@ -1,0 +1,4 @@
+hasNext()The method will determine whether there is a non-empty character next. If there is, it returnstrue, Otherwise returnfalse
+
+
+hasNextLine() The method will determine whether there is a next line (including a blank line) according to the line matching mode, and if there is, returntrue, Otherwise returnfalse
